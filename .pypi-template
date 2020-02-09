@@ -1,0 +1,18 @@
+a_description_for_the_package: Spanish word converter to natural numbers
+classifiers:
+- 'Development Status :: 1 - Planning'
+- 'Programming Language :: Python :: 3 :: Only'
+console_scripts: []
+first_year_of_publication: '2020'
+github_account: cartovarc
+github_repo_name: sw2n
+keywords_describing_the_package: convert, words, numbers, spanish, digits, numeric
+package_module_name: sw2n
+package_name: sw2n
+package_tagline: ''
+package_title: Spanish words to numbers
+requires: []
+scripts: []
+your_author_name: Carlos Tovar
+your_email_address: cartovarc@gmail.com
+your_full_name: Carlos Fernando Tovar Ceron
