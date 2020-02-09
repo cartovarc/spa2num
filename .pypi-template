@@ -5,10 +5,10 @@ classifiers:
 console_scripts: []
 first_year_of_publication: '2020'
 github_account: cartovarc
-github_repo_name: sw2n
+github_repo_name: spa2n
 keywords_describing_the_package: convert, words, numbers, spanish, digits, numeric
-package_module_name: sw2n
-package_name: sw2n
+package_module_name: spa2n
+package_name: spa2n
 package_tagline: ''
 package_title: Spanish words to numbers
 requires: []
