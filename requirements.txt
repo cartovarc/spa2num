@@ -53,3 +53,4 @@ virtualenv==16.7.9
 wcwidth==0.1.8
 webencodings==0.5.1
 zipp==1.1.0
+pypi-template==0.1.1
