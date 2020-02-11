@@ -1,6 +1,8 @@
 # Spanish words to numbers
 
-> 
+> Allows you to translate to integer numerical words spelled in spanish. 
+
+> to_number("ciento veintitrés millones cuatrocientos cincuenta y seis mil setecientos ochenta y nueve") -> 123456789
 
 [![Latest Version on PyPI](https://img.shields.io/pypi/v/spa2num.svg)](https://pypi.python.org/pypi/spa2num/)
 [![Supported Implementations](https://img.shields.io/pypi/pyversions/spa2num.svg)](https://pypi.python.org/pypi/spa2num/)
