@@ -1,8 +1,8 @@
-# Generated Code Documentation
+# Code Documentation
 
 ```eval_rst
-.. automodule:: pypi_template
+.. automodule:: spa2num
 
-.. automodule:: pypi_template.module
+.. automodule:: spa2num.converter
    :members:
 ```

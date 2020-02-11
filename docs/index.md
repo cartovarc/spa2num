@@ -13,7 +13,7 @@
 
 ## Contents
 
-* [What is in the Box](whats-in-the-box.md)
+* [Code Documentation](code.md)
 * [Getting Started](getting-started.md)
 * [Contributing](contributing.md)
 
