@@ -9,7 +9,7 @@ def test_converter_1():
 
 def test_converter_2():
     for n in range(1000, 100000000, 100):
-        print(num2words(n, lang="es"))
+        #print(num2words(n, lang="es"))
         assert to_number(num2words(n, lang="es")) == n
 
 
