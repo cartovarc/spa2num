@@ -3,7 +3,7 @@ import re
 import setuptools
 
 NAME             = "spa2num"
-AUTHOR           = "Christophe VG"
+AUTHOR           = "Carlos Tovar"
 AUTHOR_EMAIL     = "cartovarc@gmail.com"
 DESCRIPTION      = "Spanish word converter to numerical digits"
 LICENSE          = "MIT"
