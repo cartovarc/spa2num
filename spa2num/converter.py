@@ -63,6 +63,7 @@ def to_number(x):
         raise Spa2NumSyntaxException("invalid sintax found")
 
     x = x.lower()
+    x = re.sub("cero", " 0 ", x)
     x = re.sub("once", " 11 ", x)
     x = re.sub("doce", " 12 ", x)
     x = re.sub("trece", " 13 ", x)
