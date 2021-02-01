@@ -89,7 +89,7 @@ def to_number(x):
     x = re.sub("setecientos", " 700 ", x)
     x = re.sub("ochocientos", " 800 ", x)
     x = re.sub("novecientos", " 900 ", x)
-    x = re.sub("uno", " 1 ", x)
+    x = re.sub("uno|un|ún", " 1 ", x)
     x = re.sub("dos|dós", " 2 ", x)
     x = re.sub("tres|trés", " 3 ", x)
     x = re.sub("cuatro", " 4 ", x)
