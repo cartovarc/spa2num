@@ -21,7 +21,7 @@ packaging==20.1
 pkginfo==1.5.0.1
 pluggy==0.13.1
 prompt-toolkit==2.0.10
-py==1.8.1
+py==1.10.0
 pycparser==2.19
 Pygments==2.5.2
 pyOpenSSL==19.1.0
